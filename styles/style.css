@@ -1,0 +1,79 @@
+* {
+    font-family: Ubuntu;
+    font-weight: lighter;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+div.content {
+    background-color: rgb(232,232,232);
+    padding: 1em;
+    padding-top: 0;
+    border-radius: 0 0 5px 5px;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li.nav {
+    color: white;
+    display: inline;
+    text-align: center;
+}
+
+li.left {
+    float: left;
+}
+
+li.right {
+    float: right;
+}
+
+a.nav {
+    color: white;
+    display: block;
+    width: 60px;
+    background-color: rgb(88, 156, 252);
+    padding: 1em;
+    width: 125px;
+    margin: 0 1em 0 0;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a.right {
+    margin: 0 0 0 1em;
+}
+
+.image {
+    text-decoration: none;
+}
+
+a.nav:hover {
+    color: white;
+    text-decoration: underline;
+    background-color: rgb(74, 122, 225);
+}
+
+div.nav {
+    width = 100%;
+    text-align: center;
+    background-color: rgb(43, 62, 115);
+    padding: 1em;
+    border-radius: 0 0 5px 5px;
+}

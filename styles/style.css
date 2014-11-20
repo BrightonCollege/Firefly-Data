@@ -1,5 +1,5 @@
 * {
-    font-family: Ubuntu;
+    font-family: Open Sans;
     font-weight: lighter;
 }
 
@@ -18,9 +18,8 @@ a:hover {
 
 div.content {
     background-color: rgb(232,232,232);
-    padding: 1em;
-    padding-top: 0;
     border-radius: 0 0 5px 5px;
+    padding: 0 1em 1em 1em;
 }
 
 ul.nav {
@@ -47,13 +46,15 @@ li.right {
 a.nav {
     color: white;
     display: block;
-    width: 60px;
     background-color: rgb(88, 156, 252);
     padding: 1em;
     width: 125px;
-    margin: 0 1em 0 0;
     text-decoration: none;
     border-radius: 5px;
+}
+
+a.left {
+    margin: 0 1em 0 0;
 }
 
 a.right {
@@ -65,14 +66,11 @@ a.right {
 }
 
 a.nav:hover {
-    color: white;
     text-decoration: underline;
     background-color: rgb(74, 122, 225);
 }
 
 div.nav {
-    width = 100%;
-    text-align: center;
     background-color: rgb(43, 62, 115);
     padding: 1em;
     border-radius: 0 0 5px 5px;

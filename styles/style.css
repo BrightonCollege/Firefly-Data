@@ -45,10 +45,6 @@ li.right {
 
 a.btn {
     color: white;
-<<<<<<< HEAD
-=======
-    display: inline-block;
->>>>>>> FETCH_HEAD
     background-color: rgb(88, 156, 252);
     padding: 1em;
     width: 125px;
@@ -88,7 +84,6 @@ div.nav {
     padding: 1em;
     border-radius: 0 0 5px 5px;
 }
-<<<<<<< HEAD
 
 div.info {
     width:60%;
@@ -146,9 +141,3 @@ div.infobox {
     padding: 1em;
     margin: 1em;
 }
-=======
-small {
-    color:#1abc9c;
-    font-weight: bold;
-}
->>>>>>> FETCH_HEAD

@@ -87,11 +87,10 @@ div.nav {
 
 div.info {
     width:60%;
-    background-color: #BABABA;
+    background-color: #CACACA;
     border-radius: 5px;
     padding: 0.5em;
     margin: 0.5em;
-    color: white;
     position: relative;
 }
 
